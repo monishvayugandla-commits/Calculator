@@ -20,4 +20,4 @@ Java SE Development Kit 8 or later
 Contributions to this project are welcome. If you find a bug or have a suggestion for improvement, please open an issue or submit a pull request.
 
 ## Credits
-This project was created by Kalutu Monish Vayugandla.
+This project was created by Monish Vayugandla.
